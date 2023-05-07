@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-java-program-which-reads-a-text-file-and-writes-the-content-into-a-new-file
+<br>
+Write a Java program which reads a text file and writes the content into a new file. During the read-write process, convert all the upper case letters into lower case ones. In other words, your programming task is to create a new file with the same content of the original file, only that all the upper case letters are converted into lower case ones in the new file.
